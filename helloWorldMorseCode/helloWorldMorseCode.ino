@@ -1,3 +1,5 @@
+// Short hello world in morse code skecth
+
 void setup() {
   pinMode(11, OUTPUT);
   pinMode(10, OUTPUT);
